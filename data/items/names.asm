@@ -43,13 +43,13 @@ ItemNames::
 	li "DOME FOSSIL"
 	li "HELIX FOSSIL"
 	li "SECRET KEY"
-	li "?????" ; ITEM_2C
+	li "SUN STONE" ; SUN
 	li "BIKE VOUCHER"
 	li "X ACCURACY"
 	li "LEAF STONE"
 	li "CARD KEY"
 	li "NUGGET"
-	li "PP UP" ; ITEM_32
+	li "SHINY STONE" ; SHINY
 	li "POKé DOLL"
 	li "FULL HEAL"
 	li "REVIVE"
@@ -83,6 +83,8 @@ ItemNames::
 	li "MAX ETHER"
 	li "ELIXER"
 	li "MAX ELIXER"
+	li "ICE STONE"
+	li "DAWN STONE"
 	assert_list_length NUM_ITEMS
 	li "B2F"
 	li "B1F"

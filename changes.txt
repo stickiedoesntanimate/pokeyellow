@@ -1,0 +1,9 @@
+Added dark steel and fairy
+  -added stones for them
+fixed glitch with misreported type effectiveness
+
+todo:
+added remaining eeveelutions
+ralts
+reuniclus
+palossand

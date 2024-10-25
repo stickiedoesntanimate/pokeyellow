@@ -1506,3 +1506,12 @@ _MewDexEntry::
 	next "fine, delicate"
 	next "hair can be seen"
 	dex
+	
+_SylveonDexEntry::
+	text "It sends a"
+	next "soothing aura from"
+	next "its ribbonlike"
+
+	page "feelers to calm "
+	next "fights."
+	dex
