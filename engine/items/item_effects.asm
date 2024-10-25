@@ -2173,6 +2173,10 @@ ItemUsePPUp:
 	ld a, [wIsInBattle]
 	and a
 	jp nz, ItemUseNotTime
+	
+ItemUseMemoryCase:
+	text_far _MemoryCaseUsedTest
+	text_end
 
 ItemUsePPRestore:
 	ld a, [wWhichPokemon]

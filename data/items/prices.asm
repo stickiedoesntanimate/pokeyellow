@@ -85,6 +85,7 @@ ItemPrices::
 	bcd3 0     ; MAX_ELIXER
 	bcd3 2100  ; ICE_STONE
 	bcd3 2100  ; DAWN_STONE
+	bcd3 0     ; MEMORY_CASE
 	assert_table_length NUM_ITEMS
 	bcd3 0     ; FLOOR_B2F
 	bcd3 0     ; FLOOR_B1F

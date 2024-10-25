@@ -229,6 +229,7 @@ PalletTown_TextPointers:
 	dw_const PalletTownPlayersHouseSignText, TEXT_PALLETTOWN_PLAYERSHOUSE_SIGN
 	dw_const PalletTownRivalsHouseSignText,  TEXT_PALLETTOWN_RIVALSHOUSE_SIGN
 	dw_const PalletTownOakComeWithMe,        TEXT_PALLETTOWN_OAK_COME_WITH_ME
+	dw_const PickUpItemText,                 TEXT_TEXT_PALLETTOWN_MEMORY_CASE
 
 PalletTownOakText:
 	text_asm

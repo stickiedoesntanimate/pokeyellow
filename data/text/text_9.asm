@@ -429,6 +429,10 @@ _AfterTrade3Text::
 	text " is"
 	line "doing great!"
 	done
+	
+_MemoryCaseUsedTest::
+	text "Memory Case?"
+	done
 
 _NothingToCutText::
 	text "There isn't"
