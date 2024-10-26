@@ -221,6 +221,7 @@ PalletTownNoopScript:
 
 PalletTown_TextPointers:
 	def_text_pointers
+	dw_const PickUpItemText,                 TEXT_PALLETTOWN_MEMORY_CASE
 	dw_const PalletTownOakText,              TEXT_PALLETTOWN_OAK
 	dw_const PalletTownGirlText,             TEXT_PALLETTOWN_GIRL
 	dw_const PalletTownFisherText,           TEXT_PALLETTOWN_FISHER
@@ -229,7 +230,6 @@ PalletTown_TextPointers:
 	dw_const PalletTownPlayersHouseSignText, TEXT_PALLETTOWN_PLAYERSHOUSE_SIGN
 	dw_const PalletTownRivalsHouseSignText,  TEXT_PALLETTOWN_RIVALSHOUSE_SIGN
 	dw_const PalletTownOakComeWithMe,        TEXT_PALLETTOWN_OAK_COME_WITH_ME
-	dw_const PickUpItemText,                 TEXT_PALLETTOWN_MEMORY_CASE
 
 PalletTownOakText:
 	text_asm
