@@ -152,3 +152,7 @@ _NurseChanseyText::
 	text "CHANSEY: Chaaan"
 	line "sey!"
 	done
+	
+_MemoryCaseUsedTest::
+	text "Memory Case?"
+	prompt
