@@ -85,4 +85,5 @@ KeyItemFlags:
 	dbit FALSE ; MAX_ELIXER
 	dbit FALSE ; ICE_STONE
 	dbit FALSE ; DAWN_STONE
+	dbit TRUE  ; MEMORY_CASE
 	end_bit_array NUM_ITEMS

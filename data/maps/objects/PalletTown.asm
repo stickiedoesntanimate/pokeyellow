@@ -2,7 +2,7 @@
 	const_export PALLETTOWN_OAK
 	const_export PALLETTOWN_GIRL
 	const_export PALLETTOWN_FISHER
-	const_export TEXT_PALLETTOWN_MEMORY_CASE
+	const_export PALLETTOWN_MEMORY_CASE
 
 PalletTown_Object:
 	db $b ; border block
